@@ -1,18 +1,6 @@
-### Grouped by category
-
 <details>
 <summary>Expand</summary>
 <br>
-
-Playlist in which each channel has its _category_ as a group title:
-
-```
-https://iptv-org.github.io/iptv/index.category.m3u
-```
-
-Same thing, but split up into separate files:
-
-<!-- prettier-ignore -->
 <table>
   <thead>
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
@@ -52,7 +40,6 @@ Same thing, but split up into separate files:
 
 </details>
 
-### Grouped by language
 
 <details>
 <summary>Expand</summary>
@@ -60,13 +47,8 @@ Same thing, but split up into separate files:
 
 Playlist in which each channel has its _language_ as a group title:
 
-```
-https://iptv-org.github.io/iptv/index.language.m3u
-```
-
 Same thing, but split up into separate files:
 
-<!-- prettier-ignore -->
 <table>
   <thead>
     <tr><th align="left">Language</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
@@ -214,15 +196,7 @@ Same thing, but split up into separate files:
 <details>
 <summary>Expand</summary>
 <br>
-
-Playlist in which each channel has its _country_ as a group title:
-
-```
-https://iptv-org.github.io/iptv/index.country.m3u
-```
-
-Same thing, but split up into separate files:
-
+  
 <!-- prettier-ignore -->
 <table>
   <thead>
@@ -745,21 +719,14 @@ Same thing, but split up into separate files:
 
 </details>
 
-### Grouped by region
-
 <details>
 <summary>Expand</summary>
 <br>
 
 Playlist in which each channel has its _region_ as a group title:
 
-```
-https://iptv-org.github.io/iptv/index.region.m3u
-```
-
 Same thing, but split up into separate files:
 
-<!-- prettier-ignore -->
 <table>
   <thead>
     <tr><th align="left">Region</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
