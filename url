@@ -60,7 +60,7 @@ Same thing, but split up into separate files:
     <tr><th align="left">Category</th><th align="left">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td>TEST</td><td align="right">689</td><td nowrap><code>https://m3u.cl/lista/CR.m3u</code></td></tr>
+    <tr><td>TEST</td><td align="right">689</td><td nowrap><code>https://raw.githubusercontent.com/isaacsibaja/content/main/canales/cr.m3u</code></td></tr>
     <tr><td>Animation</td><td align="right">68</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
     <tr><td>Auto</td><td align="right">16</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td>Business</td><td align="right">66</td><td nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
