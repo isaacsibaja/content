@@ -14,3 +14,8 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+
+#EXTINF:-1 tvg-id='1006' tvg-name='Repretel Canal 4' tvg-logo='https://es.m.wikipedia.org/wiki/Archivo:Repretel_4_logo.png', Repretel Canal 4 * | CR
+https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
