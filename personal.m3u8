@@ -6,3 +6,11 @@ http://45.190.187.226:58092/play/a00q
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+
+
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://www.repretel.com/wp-content/uploads/2023/08/1389c951bca61866-150x30.png"  group-title="FUTBOL", Repretel6
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
