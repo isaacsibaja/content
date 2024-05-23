@@ -10,144 +10,184 @@ http://45.190.187.226:58092/play/a00q
 
 
 
-
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='484' tvg-name='Canal 1' tvg-logo='https://www.iptvgratis.cl/logocanal/canal1.png', Canal 1 * | CR
-https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1153' tvg-name='Cartago Medios' tvg-logo='https://www.iptvgratis.cl/logocanal/cartagomedios.png', Cartago Medios * | CR
-https://tvdatta.com:3384/live/cartagomedioslive.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='845' tvg-name='Colosal TV' tvg-logo='https://www.iptvgratis.cl/logocanal/colosalhd.png', Colosal TV * | CR
-https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='794' tvg-name='Norte Informativo' tvg-logo='https://www.iptvgratis.cl/logocanal/norteinformativo.png', Norte Informativo * | CR
-https://videohd.live:19360/8076/8076.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='751' tvg-name='Teleuno' tvg-logo='https://www.iptvgratis.cl/logocanal/teleuno.png', Teleuno * | CR
-https://5d16127744872.streamlock.net/TVUNO/TVUNO/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='190' tvg-name='TicaVision' tvg-logo='https://www.iptvgratis.cl/logocanal/ticavision.png', TicaVision * | CR
-https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='100' tvg-name='Tv Sur Canal 14' tvg-logo='https://www.iptvgratis.cl/logocanal/tvsurtv.png', Tv Sur Canal 14 * | CR
-https://5bf8041cb3fed.streamlock.net:443/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='323' tvg-name='MZ Sports' tvg-logo='https://www.iptvgratis.cl/logocanal/mzsport.png', MZ Sports * | CR
-https://cloudvideo.servers10.com:8081/8248/index.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='372' tvg-name='Canal 38' tvg-logo='https://www.iptvgratis.cl/logocanal/canal38.png', Canal 38 * | CR
-https://rtmp.info/canal38/envivo/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='413' tvg-name='Canal VM Latino' tvg-logo='https://www.iptvgratis.cl/logocanal/canalvmlatino.png', Canal VM Latino * | CR
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1192' tvg-name='Oldies Hits TV' tvg-logo='https://www.iptvgratis.cl/logocanal/oldiehits.png', Oldies Hits TV * | CR
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='913' tvg-name='Soy Plancha TV' tvg-logo='https://www.iptvgratis.cl/logocanal/soyplanchatv.png', Soy Plancha TV * | CR
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='163' tvg-name='Urbano TV' tvg-logo='https://www.iptvgratis.cl/logocanal/urbanotv.png', Urbano TV * | CR
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1329' tvg-name='Vintage Music' tvg-logo='https://www.iptvgratis.cl/logocanal/vintagemusic.png', Vintage Music * | CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='557' tvg-name='Telered' tvg-logo='https://www.iptvgratis.cl/logocanal/telered.png', Telered * | CR
-https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='415' tvg-name='Humor 24/7' tvg-logo='https://www.iptvgratis.cl/logocanal/humor.png', Humor 24/7 * | CR
-https://srv.panelcast.net/humor247/humor247/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1120' tvg-name='Teletica Canal 7' tvg-logo='https://m.facebook.com/Teletica/photos/a.363996973623145/1899584696731024/?type=3&source=44&paipv=0&eav=AfZas9M8ATp7f07Dap_fFFR0_PLeWiioPUcXasAuzo0eC-97MO_d3cTZ7I9ea8CNWp4', Teletica Canal 7 * | CR
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46jFZ5dr4COvi3rb0CwR1kDwxqI7ic9aVAKWYXCkZxwR)/dm/3/x83x5y5/d/live-2.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1152' tvg-name='Teletica Canal 7 Opción 2' tvg-logo='https://es.m.wikipedia.org/wiki/Archivo:Teletica_Logo.png', Teletica Canal 7 Opción 2 * | CR
-http://190.113.255.26:10000/play/a020
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1175' tvg-name='Teletica Opción 2' tvg-logo='https://es.m.wikipedia.org/wiki/Archivo:Teletica_Logo.png', Teletica Opción 2 * | CR
-http://190.113.255.26:10000/play/a020
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='923' tvg-name='Teletica Canal 7' tvg-logo='https://m.facebook.com/Teletica/photos/a.363996973623145/1899584696731024/?type=3&source=44&paipv=0&eav=AfZas9M8ATp7f07Dap_fFFR0_PLeWiioPUcXasAuzo0eC-97MO_d3cTZ7I9ea8CNWp4', Teletica Canal 7 * | CR
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46jFZ5dr4COvi3rb0CwR1kDwxqI7ic9aVAKWYXCkZxwR)/dm/3/x83x5y5/d/live-2.m3u8
-
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1237' tvg-name='Teletica Opción 3' tvg-logo='https://www.google.com/search?q=teletica&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsZVhqr4QPmzYIIjcUTdw0b_Uha0qw:1665779560246&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvnNm3yOD6AhWUmYQIHTqDDEAQ_AUICCgD&biw=601&bih=832#', Teletica Opción 3 * | CR
-https://stream-01.dc3.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zvY1SFJ59WkKpRp2pW0RTQoUt5PwvCCNGzRD-Fqxqj9)/dm/3/x29e3wg/d/live-2.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='371' tvg-name='Teletica Radio' tvg-logo='https://www.google.com/search?q=teletica+radio&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsZ0FoSfUsHq9nU53zdh53bX-Nw8pw:1665785875692&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjUw5H73-D6AhWqTTABHX_nA28Q_AUIBigB&biw=601&bih=832#', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_353850088_58975.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1071' tvg-name='Teletica Audío' tvg-logo='https://www.google.com/search?q=teletica+radio&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsbK7gWUfdjqOw8jzaKvh3JVoOClEg:1665786944654&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_4u344-D6AhUMSjABHcMbA-AQ_AUIBigB&biw=601&bih=832#', Teletica Audío * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_354894038_59149.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1274' tvg-name='Repretel Canal 6' tvg-logo='https://www.google.com/search?q=repretel+canal+6&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsYTPnzhXszi33H1dKaLQjPE8hiWog:1665787146562&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikn5HZ5OD6AhV6mIQIHeQYDPUQ_AUICCgD&biw=601&bih=832#', Repretel Canal 6 * | CR
-https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1488' tvg-name='Repretel Canal 6' tvg-logo='https://iptvgratis.cl/logocanal/repretel.png', Repretel Canal 6 * | CR
-https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='279' tvg-name='Teletica Opción 3' tvg-logo='https://iptvgratis.cl/logocanal/teletica.png', Teletica Opción 3 * | CR
-https://stream-01.dc3.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zvY1SFJ59WkKpRp2pW0RTQoUt5PwvCCNGzRD-Fqxqj9)/dm/3/x29e3wg/d/live-2.m3u8
-
-
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='736' tvg-name='Canal 8 Remoto' tvg-logo='https://1.bp.blogspot.com/-hqlIns4Y750/WWwASgrkb3I/AAAAAAAAwwo/gP0jGDCOUuIvh6wsDVOkWYtw7RFnBcV2ACLcBGAs/s1600/201854338-1-multimedios-radio-y-television-publicidad-en-radio-y-television.jpeg', Canal 8 Remoto * | CR
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='340' tvg-name='Antena Seís' tvg-logo='https://www.google.com/search?q=antena+seis&client=tablet-android-samsung&espv=1&sxsrf=ALiCzsaoulAtfK3OG5krV5iiFR2vGGDl0Q:1665874075174&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUr_bDqOP6AhXGSDABHUTJCIMQ_AUIBigB&biw=601&bih=841#', Antena Seís * | CR
-https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='286' tvg-name='Repretel Canal 6' tvg-logo='https://iptvgratis.cl/logocanal/repretel.png', Repretel Canal 6 * | CR
-https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal6_720.m3u8
-
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1357' tvg-name='Teletica Canal 7 Su enlace no se cae' tvg-logo='https://scontent.flim13-1.fna.fbcdn.net/v/t1.6435-9/39406249_1899584703397690_5060803846557663232_n.png?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=vXicrehohOkAX8MNSCK&_nc_ht=scontent.flim13-1.fna&oh=00_AT9VfY25K-wJK5f93uoFZ9xHhZo1PEBYfHHS8C9vJLHEOg&oe=63711309', Teletica Canal 7 Su enlace no se cae * | CR
-https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='424' tvg-name='Multímedios Canal 8' tvg-logo='https://scontent.flim13-1.fna.fbcdn.net/v/t39.30808-6/277735539_3093879607544554_7843806063842294288_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KvZwhuPBaWkAX9ML2Mz&_nc_ht=scontent.flim13-1.fna&oh=00_AT8I_Cag5b5U2hpJCnOwI6veNsZrDIxlE7oKNHZ04zXgPA&oe=6351EE2D', Multímedios Canal 8 * | CR
-http://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream/5a7b1e63a8da282c34d65445/publish/media_2000.m3u8?aid=579bd29dc99290cf08362c3b&ref=http%3A%2F%2Fwww.multimedios.com&pid=toDIVxtpWF4yNOD7QUnsxHVaWbZdFyah&sid=JGhr0r4r1p7owD80qh6iVRbwtC8CsejG&uid=LRl84gLsS5RXwEvqgcFf3dViNimeANKP&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1665943389966&ot=MC31tDsTIC8OHqFNTnh9aA&proto=http&pz=us
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1276' tvg-name='Antena Seís' tvg-logo='https://yt3.ggpht.com/l-r5SuAwDE4z885usGlVUuaz6cLZgpmj0nvxP0jZYZ3RMJa1zjTi9FGsgUTQMqEMMKdBUXMRTw=s88-c-k-c0x00ffffff-no-rj', Antena Seís * | CR
-https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1285' tvg-name='Teletica Radio en video' tvg-logo='https://www.google.com/search?q=teletica+radio&client=tablet-android-samsung&source=android-browser&sxsrf=ALiCzsahnAdvnCkzEont3b_de-rjsDp-kw:1666022133838&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj2meaL0Of6AhXwrmoFHUtvAqYQ_AUIBigB&biw=601&bih=832#', Teletica Radio en video * | CR
-https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='294' tvg-name='Teletica Radio en video' tvg-logo='https://iptvgratis.cl/logocanal/teleticas.png', Teletica Radio en video * | CR
-https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='436' tvg-name='Repretel Canal 11' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png', Repretel Canal 11 * | CR
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_360.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='126' tvg-name='Teletica Radio' tvg-logo='https://m.facebook.com/TeleticaRadio/photos/a.1839539052974531/2617716555156773/?type=3&source=57&__tn__=EH-R', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642486088_107081.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='146' tvg-name='Teletica Radio' tvg-logo='https://m.facebook.com/TeleticaRadio/photos/a.1839539052974531/2617716555156773/?type=3&source=57&__tn__=EH-R', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642486088_107081.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1292' tvg-name='Teletica Radio' tvg-logo='https://m.facebook.com/TeleticaRadio/photos/a.1839539052974531/2617716555156773/?type=3&source=57&__tn__=EH-R', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642486088_107081.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='607' tvg-name='Teletica Radio' tvg-logo='https://i1.sndcdn.com/avatars-000323743731-rrntyq-t240x240.jpg', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642798020_107133.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='403' tvg-name='Teletica Radio' tvg-logo='https://i1.sndcdn.com/avatars-000323743731-rrntyq-t240x240.jpg', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/l_9874_642798020_107133.aac
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='462' tvg-name='Teletica Radio' tvg-logo='https://i1.sndcdn.com/avatars-000323743731-rrntyq-t240x240.jpg', Teletica Radio * | CR
-https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1008' tvg-name='Teletica Radio en video' tvg-logo='https://iptvgratis.cl/logocanal/teleticas.png', Teletica Radio en video * | CR
-https://m6gdar5eyn93-hls-live.5centscdn.com/TeleticaRadio/5444e8d6d0436ccb78704882f542e5ac.sdp/playlist.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='1006' tvg-name='Repretel Canal 4' tvg-logo='https://es.m.wikipedia.org/wiki/Archivo:Repretel_4_logo.png', Repretel Canal 4 * | CR
-https://d3bgcstab9qhdz.cloudfront.net:443/hls/canal4_720.m3u8
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='757' tvg-name='Radio Turríalba ( Enlace Expíra )' tvg-logo='https://www.doutico.com/radioturrialbatv.html', Radio Turríalba ( Enlace Expíra ) * | CR
-https://stream-04.nyc.dailymotion.com/sec(6TMM0QrMj9Q4IwNZkxGVRBHeuDt1uxR9RZiaeMUOSMOHwrGGkPuSZda1-Ok5sTCn)/dm/3/x88mu9v/s/live-2.m3u8#
-#EXTM3U x-tvg-url='' tv-test='Iptv gratis'
-#EXTINF:-1 tvg-id='866' tvg-name='Teletica Canal 7 Su enlace no se cae' tvg-logo='https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764889021_380x260.png', Teletica Canal 7 Su enlace no se cae * | CR
-https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/blob/master/epg_ripper_CR1.xml.gz?raw=true"
+#EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1, Caricaturas
+https://bit.ly/30OO5Pb
+#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
+https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
+http://45.235.37.254:8600/play/a0az
+#EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
+http://45.235.37.254:8600/play/a08v
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/disney-xd.jpg", Disney XD
+http://45.235.37.254:8600/play/a0b0
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
+http://45.235.37.254:8600/play/a0a8
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/NICK.png", Nick
+http://45.235.37.254:8600/play/a09o
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/nick-jr.jpg", Nick Jr
+http://45.235.37.254:8600/play/a08j
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/natgeo-kids.jpg", Natgeo Kids
+http://45.235.37.254:8600/play/a0aa
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tooncast.jpg", Tooncast
+http://45.235.37.254:8600/play/a069
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel (test)
+https://bit.ly/3xq9bze
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg", Animal Planet
+http://45.235.37.254:8600/play/a0ab
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-channel.jpg", Discovery Channel
+http://45.235.37.254:8600/play/a0ac
+#EXTINF:-1   tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/discoveryid.png", ID
+http://45.235.37.254:8600/play/a08y
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tlc.jpg", TLC
+http://45.235.37.254:8600/play/a0bt
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
+http://138.117.4.70:8075/Canal02_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
+http://138.117.4.70:8075/Canal04_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
+http://138.117.4.70:8075/Canal06_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
+https://bit.ly/3yo4dmY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png", Canal 9
+http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/uploads/2020/10/logo_mini.png", Canal 10
+http://138.117.4.70:8075/Canal10_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2011.png", Canal 11
+http://138.117.4.70:8075/Canal11_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal%2012.png", Canal 12
+http://138.117.4.70:8075/Canal12_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", Canal 13
+https://bit.ly/33gkAX9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2015.png", Canal 15
+http://138.117.4.70:8075/Canal15_CooTel/playlist.m3u8
+#EXTINF:-1, Mega Box
+en espera
+#EXTINF:-1, Enlace NIC
+http://138.117.4.70:8075/Canal21_CooTel/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
+http://138.117.4.70:8075/Canal23_CooTel/playlist.m3u8
+#EXTINF:-1, JBN Canal 39
+https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
+#EXTINF:-1, TV ONE nic
+https://bit.ly/3s0hReU
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
+http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
+https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
+#EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46yL5MO8kzj-B4rWKgg0Oziacjn4zgRcQ1hRL4haAR3I)/dm/3/x83sd3v/s/live-2.m3u8#cell=lnyc
+#EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+#EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
+https://bit.ly/36EcnOh
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
+//https://bit.ly/3jx96ED
+//#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
+//https://bit.ly/3sM69mz
+//#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
+//https://bit.ly/3odiMa2
+//#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
+//https://bit.ly/2WuDq9S
+//#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
+//https://bit.ly/3ytFKv7
+//#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr", FOX SPORTS
+//https://bit.ly/3Bdz8CJ
+//#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr", FOX SPORTS 2
+//https://bit.ly/3mAgHUQ
+//#EXTINF:-1, WIN+ Sports
+//https://bit.ly/3zk3nr4
+//#EXTINF:-1, La Liga
+//https://bit.ly/3nqRdcJ
+#EXTINF:-1, Dreiko TV
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1, CRTV Y Radio
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
+#EXTINF:-1, Alajuelita TV
+https://cp.sradiotv.com:1936/8076/8076/chunklist_w779116498.m3u8
+#EXTINF:-1, RBM Deportes
+https://stmv.streamingvip.click/television/television/playlist.m3u8
+#EXTINF:-1, Nosara TV
+http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
+#EXTINF:-1, Multizonas TV
+https://stmv1.srvif.com/multizonastv/multizonastv/playlist.m3u8
+#EXTINF:-1, San Jose TV
+https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
+#EXTINF:-1, Telefides
+http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
+#EXTINF:-1, SMO TV
+http://186.15.50.30:8080/hls/smotv.m3u8
+#EXTINF:-1 tvg-id="Anexión.TV.(ANEX)..cr", Anexion TV
+https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
+#EXTINF:-1, 36 Limon
+https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
+#EXTINF:-1, Colosal TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1023493580.m3u8
+#EXTINF:-1, TV UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w685058481.m3u8
+#EXTINF:-1, Telesur
+http://k3.usastreams.com/telesur/telesur/chunklist_w929248362.m3u8
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+#EXTINF:-1, Supreme Master TV
+https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
+#EXTINF:-1, Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w969400546.m3u8
+#EXTINF:-1, San Vito TV
+http://stmv1.srvif.com/sanvito/sanvito/chunklist_w547020798.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png", TVsur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1867933475.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV (1080p)
+https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png?itok=Niiw9ZPB", TV Retro Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1, Tvsur canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1 tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr", VM Latino
+http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, Antena 6
+http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
+#EXTINF:-1, Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1674958038.m3u8
+#EXTINF:-1, Mega Fuzion
+http://k4.usastreams.com/megafusion/megafusion/playlist.m3u8
+#EXTINF:-1, ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1, RadioTV Chirripo
+http://tertuliasconcafe.com:1935/tvdc/envivo_720p/playlist.m3u8
+#EXTINF:-1, TV Tica
+http://tiquiciatv.com:1935/tvtica/web/playlist.m3u8
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
+#EXTINF:-1, TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1, Los santos tv
+http://tiquiciatv.com:1935/lstv/web/playlist.m3u8
+#EXTINF:-1, TVN Canal 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1, IQ TV
+http://rtmp.info:8081/iqtv/envivo/playlist.m3u8
