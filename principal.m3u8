@@ -1,1 +1,8 @@
-https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
