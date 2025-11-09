@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
+#EXTINF:-1 tvg-id="Multimedios.8.(CR8)..cr" tag-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
 https://bit.ly/3yo4dmY
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
