@@ -1,3 +1,16 @@
+# ── TD+ Backup 1 ──
+#EXTINF:-1 tvg-id="TDPlus.cr" group-title="🇨🇷 CR Deportes [BACKUP]",TD+ Costa Rica (Backup 1)
+https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
+
+# ── TD+2 Backup 1 ──
+#EXTINF:-1 tvg-id="TDPlus2.cr" group-title="🇨🇷 CR Deportes [BACKUP]",TD+2 Costa Rica (Backup 1)
+https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
+
+# ── FUTV Backup (Xtream Code - puede requerir cuenta) ──
+#EXTINF:-1 tvg-id="FUTV.cr" group-title="🇨🇷 CR Deportes [BACKUP]",FUTV Costa Rica (Xtream)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+
+
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="🇨🇷 Costa Rica",Teletica Canal 7 (Requiere VPN CR)
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
