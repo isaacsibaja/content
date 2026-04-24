@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Tele1.cr" tvg-name="Tele 1 TV" group-title="Costa Rica",Tele 1 TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SanVito.cr" tvg-name="San Vito TV" group-title="Costa Rica",Canal 5 San Vito Televisión
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Teletica.cr" tvg-name="Teletica" group-title="Costa Rica",Teletica Canal 7  777
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/teletica
+
+#EXTINF:-1 tvg-id="NuestroCanal.cr" tvg-name="Nuestro Canal" group-title="Costa Rica",Canal 13 SINART
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://dailymotion.com/sinart
+
+#EXTINF:-1 tvg-id="TVN14.cr" tvg-name="TVN Canal 14" group-title="Costa Rica",TVN Canal 14 HD
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UCR15.cr" tvg-name="Quince UCR" group-title="Costa Rica",Quince 15 - Universidad de Costa Rica
+http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asamblea.cr" tvg-name="Asamblea Legislativa" group-title="Costa Rica",Asamblea Legislativa CR
+http://stream02.cyberfuel.com/SinartAsamblea/livestream/chunklist_w1480856205.m3u8
+
+
+
 # ===== COSTA RICA =====
 
 #EXTINF:-1 tvg-id="teletica.cr" tvg-name="Teletica 7" group-title="Costa Rica",Teletica Canal 7
