@@ -1,3 +1,18 @@
+#EXTM3U
+#EXTINF:-1,CR | Repretel 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0NTc2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImE4ZTIwZTJiNTVmOTM0NWVhN2JjMWRkYmEyMzJhZWRkNTg0NTk1MDkifQ%3D%3D
+#EXTINF:-1,CR | Teletica 7
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xGCxjveKiM-8vqcT2EH45509YDyAhQhh7I2mMQUiSTk)/dm/3/x29e3wg/d/live-0.m3u8
+#EXTINF:-1,CR | Repretel 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg1OTM2ODAxLCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuMTQyIiwid2hpdGVsaXN0IjpbIjIwMS4yMDMuMTE3LjE0MiJdfSwic2lnbmF0dXJlIjoiYmE2NGUxMzNkYWI3NTc5YmQ5NGE0MTFiNTIxYmJmYTk1YTMwYTA4NSJ9
+#EXTINF:-1,CR | Repretel 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg1OTM2OTE2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuMTQyIiwid2hpdGVsaXN0IjpbIjIwMS4yMDMuMTE3LjE0MiJdfSwic2lnbmF0dXJlIjoiNGQ3ZjI5MTM2OTdjZjc5OWMyNTAyNGFmNTgzOWJhYzNmOThlMWJhNyJ9
+#EXTINF:-1,CR | Canal 13
+https://playback2.akamaized.net/streams/1532727_8717137_lsi970ycheix9vwpnky_1/exp=1586185892~acl=%2f*~data=hdntl~hmac=9712596c01fe893aea76e7c9e96f73cccfb8f3ab6cb80834c274e22b23ec172f/media/1532727_8717137_lsi970ycheix9vwpnky_1@2128000pb.m3u8?dw=14400&ts=1586098800
+#EXTINF:-1,ES | DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+
+
 #EXTVLCOPT:http-referrer=https://bradmax.com
 #EXTINF:-1 tvg-id="Teletica7.cr" tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="Costa Rica" ,Teletica 7
 https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
