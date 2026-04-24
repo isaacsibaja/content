@@ -1,3 +1,11 @@
+#EXTINF:-1 tvg-id="Teletica7.cr" group-title="🇨🇷 Costa Rica",Teletica Canal 7 (Requiere VPN CR)
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Teletica7.cr" group-title="🇨🇷 Costa Rica",Teletica Canal 7 (Proxy - Calidad Media)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/teletica
+
+
+
 #EXTVLCOPT:http-referrer=https://bradmax.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-id="Teletica7.cr" group-title="🇨🇷 Costa Rica",Teletica Canal 7
