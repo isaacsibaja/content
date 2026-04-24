@@ -1,23 +1,70 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cr/epg.xml"
 
-# ── DEPORTES CR ESTABLES ──
+# =====================================================
+# 🇨🇷 COSTA RICA - LISTA VERIFICADA (Diciembre 2026)
+# Solo canales con CDNs estables - Prioridad: Deportes
+# =====================================================
 
-# MZ Sports (El más confiable - Deportes LATAM + CR)
-#EXTINF:-1 tvg-id="MZSports.cr" group-title="🇨🇷 Deportes",MZ Sports Costa Rica
-https://cloudvideo.servers10.com:8081/8248/index.m3u8
+# ── 🏆 DEPORTES (Tu prioridad) ──
 
-# Tigo Sports CR (Backup - puede requerir geo-CR)
+# Tigo Sports CR - ✅ EL QUE YA TE FUNCIONA (Ottera CDN)
 #EXTVLCOPT:http-referrer=https://www.tigo.com.cr
-#EXTINF:-1 tvg-id="TigoSportsCR.cr" group-title="🇨🇷 Deportes",Tigo Sports Costa Rica
+#EXTINF:-1 tvg-id="TigoSportsCR.cr" tvg-logo="https://i.imgur.com/tigosports.png" group-title="🇨🇷 CR Deportes",Tigo Sports Costa Rica
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
-# Canal 1 CR (Transmite deportes nacionales)
-#EXTINF:-1 tvg-id="Canal1.cr" group-title="🇨🇷 Deportes",Canal 1 CR
+# MZ Sports - CDN servers10.com (Muy estable, similar a Ottera)
+#EXTINF:-1 tvg-id="MZSports.cr" tvg-logo="https://i.imgur.com/mzsports.png" group-title="🇨🇷 CR Deportes",MZ Sports Costa Rica
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+
+# TDtv - CDN servers10.com (Contenido deportivo alternativo)
+#EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/tdtv.png" group-title="🇨🇷 CR Deportes",TDtv Costa Rica
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
+
+# Radio Turrialba TV Sports - CDN iblups.com (Deportes regionales)
+#EXTVLCOPT:http-referrer=https://iblups.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr" group-title="🇨🇷 CR Deportes",Radio Turrialba TV Sports
+https://live-stream.iblups.com/live/a5ae024a1bbc4a05a68debbc9d379db6bb6a6da3.m3u8
+
+# ── 📺 NACIONALES ESTABLES (Backup/Noticias) ──
+
+# Canal 1 CR - CDN canal1cr.com (Estable, transmite deportes nacionales)
+#EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.imgur.com/canal1cr.png" group-title="🇨🇷 CR Nacionales",Canal 1 Costa Rica
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
 
-# Zurquí TV (Deportes infantiles/juveniles)
-#EXTINF:-1 tvg-id="ZurquiTV.cr" group-title="🇨🇷 Deportes",Zurquí TV
-https://5cf4a2c2512a2.streamlock.net:443/ZurquiTV/ZurquiTV/playlist.m3u8
+# Agrotendencia TV - CDN streamlock.net (Muy estable, estilo de vida + campo)
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="https://i.imgur.com/agro.png" group-title="🇨🇷 CR Nacionales",Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
+# Zurquí TV - CDN tmcreativos.com (Infantil, pero muy estable)
+#EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/zurqui.png" group-title="🇨🇷 CR Nacionales",Zurquí TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+
+# Quince UCR - CDN UCR (Educativo, transmisiones deportivas universitarias)
+#EXTINF:-1 tvg-id="QuinceUCR.cr" tvg-logo="https://i.imgur.com/quince.png" group-title="🇨🇷 CR Nacionales",Quince 15 UCR
+http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+
+# ── 🌐 REGIONALES CON CDNs ESTABLES ──
+
+# Coto Brus TV - CDN servers10.com
+#EXTINF:-1 tvg-id="CotoBrusTV.cr" group-title="🇨🇷 CR Regionales",Coto Brus TV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+
+# RTTV - CDN servers10.com
+#EXTINF:-1 tvg-id="RTTV.cr" group-title="🇨🇷 CR Regionales",RTTV Costa Rica
+https://cloudvideo.servers10.com:19360/8212/8212.m3u8
+
+# VoiceOver Radio TV - CDN servers10.com
+#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" group-title="🇨🇷 CR Regionales",VoiceOver Radio TV
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+
+# Los Santos TV - CDN duckdns.org (P2P dinámico, sorprendentemente estable)
+#EXTINF:-1 tvg-id="LosSantosTV.cr" group-title="🇨🇷 CR Regionales",Los Santos TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
+# RTV Chirripó - CDN duckdns.org
+#EXTINF:-1 tvg-id="RTVChirripo.cr" group-title="🇨🇷 CR Regionales",RTV Chirripó
+https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 
 
 
