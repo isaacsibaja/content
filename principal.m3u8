@@ -33,6 +33,72 @@ https://mdstrm.com/live-stream-playlist/5aaabe9c7398b40011c0d39c.m3u8
 
 
 
+
+
+#EXTM3U
+
+# ===== COSTA RICA =====
+
+#EXTINF:-1 tvg-id="teletica.cr" group-title="Costa Rica",Teletica Canal 7
+https://www.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="sinart.cr" group-title="Costa Rica",SINART Canal 13
+https://5b3050bb1b2d8.streamlock.net:444/13tv/13tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="multimedios.cr" group-title="Costa Rica",Multimedios CR
+https://mdstrm.com/live-stream-playlist/608ae3e68a43c00008c53c7d.m3u8
+
+#EXTINF:-1 tvg-id="extrema.cr" group-title="Costa Rica",Extrema TV
+https://live20.bozztv.com/giatv/giatv-extrema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telered.cr" group-title="Costa Rica",TeleRed
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+
+#EXTINF:-1 tvg-id="limon.cr" group-title="Costa Rica",Limon TV
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal38.cr" group-title="Costa Rica",Canal 38
+https://rtmp.info:8081/live/38tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teleuno.cr" group-title="Costa Rica",Tele Uno
+https://tv.teleuno.cr:1936/live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="crc89.cr" group-title="Costa Rica",CRC 89 TV
+https://rtmp.info:8081/live/crc89tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal15.cr" group-title="Costa Rica",Canal 15 UCR
+https://streaming.ucr.ac.cr/hls/canal15.m3u8
+
+#EXTINF:-1 tvg-id="amnet.cr" group-title="Costa Rica",AMNET TV
+https://rtmp.info:8081/live/amnettv/playlist.m3u8
+
+# ===== RELIGIOSOS / REGIONALES =====
+
+#EXTINF:-1 group-title="Costa Rica",Enlace TV
+https://enlace.cdn.enlacetv.net/enlace/smil:enlace.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Costa Rica",TBN Enlace Juvenil
+https://streaming.tbn.org/juv/playlist.m3u8
+
+# ===== LATAM (para completar grilla) =====
+
+#EXTINF:-1 group-title="Noticias",24 Horas Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9c7398b40011c0d39c.m3u8
+
+#EXTINF:-1 group-title="Latam",TV Perú
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 group-title="Noticias",Canal Congreso MX
+https://live.congresogto.gob.mx/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Música",Top Latino TV
+https://5cefcbf58f1c1.streamlock.net:443/toplatino/toplatino/playlist.m3u8
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1,CR | Repretel 4
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0NTc2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImE4ZTIwZTJiNTVmOTM0NWVhN2JjMWRkYmEyMzJhZWRkNTg0NTk1MDkifQ%3D%3D
