@@ -1,3 +1,33 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cr/epg.xml"
+
+# ================================
+# 🇨🇷 COSTA RICA - DEPORTES
+# ================================
+
+# ── TD+ (Canal Principal) ──
+#EXTVLCOPT:http-referrer=https://www.tdmax.com
+#EXTINF:-1 tvg-id="TDPlus.cr" tvg-logo="https://i.imgur.com/tdplus.png" group-title="🇨🇷 CR Deportes",TD+ Costa Rica
+https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
+
+# ── TD+2 (Señal Alternativa) ──
+#EXTVLCOPT:http-referrer=https://www.tdmax.com
+#EXTINF:-1 tvg-id="TDPlus2.cr" tvg-logo="https://i.imgur.com/tdplus2.png" group-title="🇨🇷 CR Deportes",TD+2 Costa Rica
+https://cdn02.teletica.com/StreamTDMas2/Streamtdmas_2_04122023/playlist.m3u8
+
+# ── FUTV (Fútbol Costarricense) - Opción 1 ──
+#EXTINF:-1 tvg-id="FUTV.cr" tvg-logo="https://i.imgur.com/futv.png" group-title="🇨🇷 CR Deportes",FUTV Costa Rica
+http://45.190.187.226:58092/play/a00r
+
+# ── FUTV (Fútbol Costarricense) - Opción Xtream ──
+#EXTINF:-1 tvg-id="FUTV.cr" group-title="🇨🇷 CR Deportes",FUTV Costa Rica (Xtream)
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
+
+# ── MZ Sports (Deportes Generales - Muy Estable) ──
+#EXTINF:-1 tvg-id="MZSports.cr" group-title="🇨🇷 CR Deportes",MZ Sports Costa Rica
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+
+
+
 # ── TD+ Backup 1 ──
 #EXTINF:-1 tvg-id="TDPlus.cr" group-title="🇨🇷 CR Deportes [BACKUP]",TD+ Costa Rica (Backup 1)
 https://cdn02.teletica.com/StreamTDMas1/Streamtdmas_1_04122023/playlist.m3u8
