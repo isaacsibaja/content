@@ -1,5 +1,29 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cr/epg.xml"
 
+# ── DEPORTES CR ESTABLES ──
+
+# MZ Sports (El más confiable - Deportes LATAM + CR)
+#EXTINF:-1 tvg-id="MZSports.cr" group-title="🇨🇷 Deportes",MZ Sports Costa Rica
+https://cloudvideo.servers10.com:8081/8248/index.m3u8
+
+# Tigo Sports CR (Backup - puede requerir geo-CR)
+#EXTVLCOPT:http-referrer=https://www.tigo.com.cr
+#EXTINF:-1 tvg-id="TigoSportsCR.cr" group-title="🇨🇷 Deportes",Tigo Sports Costa Rica
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
+
+# Canal 1 CR (Transmite deportes nacionales)
+#EXTINF:-1 tvg-id="Canal1.cr" group-title="🇨🇷 Deportes",Canal 1 CR
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+
+# Zurquí TV (Deportes infantiles/juveniles)
+#EXTINF:-1 tvg-id="ZurquiTV.cr" group-title="🇨🇷 Deportes",Zurquí TV
+https://5cf4a2c2512a2.streamlock.net:443/ZurquiTV/ZurquiTV/playlist.m3u8
+
+
+
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cr/epg.xml"
+
 # ================================
 # 🇨🇷 COSTA RICA - DEPORTES
 # ================================
