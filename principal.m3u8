@@ -1,4 +1,39 @@
 #EXTM3U
+
+# ===== COSTA RICA =====
+
+#EXTINF:-1 tvg-id="teletica.cr" tvg-name="Teletica 7" group-title="Costa Rica",Teletica Canal 7
+https://www.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="sinart.cr" tvg-name="SINART Canal 13" group-title="Costa Rica",SINART Canal 13
+https://5b3050bb1b2d8.streamlock.net:444/13tv/13tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="multimedios.cr" tvg-name="Multimedios CR" group-title="Costa Rica",Multimedios Costa Rica
+https://mdstrm.com/live-stream-playlist/608ae3e68a43c00008c53c7d.m3u8
+
+#EXTINF:-1 tvg-id="extrema.cr" tvg-name="Extrema TV" group-title="Costa Rica",Extrema TV
+https://live20.bozztv.com/giatv/giatv-extrema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="telered.cr" tvg-name="TeleRed" group-title="Costa Rica",TeleRed
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
+
+#EXTINF:-1 tvg-id="limon.cr" tvg-name="Limon TV" group-title="Costa Rica",Limon TV
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal38.cr" tvg-name="Canal 38" group-title="Costa Rica",Canal 38
+https://rtmp.info:8081/live/38tv/playlist.m3u8
+
+# ===== EXTRA LATAM (RELLENO) =====
+
+#EXTINF:-1 tvg-id="tvperu.pe" group-title="Latam",TV Perú
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-id="24horas.cl" group-title="Noticias",24 Horas Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9c7398b40011c0d39c.m3u8
+
+
+
+#EXTM3U
 #EXTINF:-1,CR | Repretel 4
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0NTc2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImE4ZTIwZTJiNTVmOTM0NWVhN2JjMWRkYmEyMzJhZWRkNTg0NTk1MDkifQ%3D%3D
 #EXTINF:-1,CR | Teletica 7
